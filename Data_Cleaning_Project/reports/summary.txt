@@ -1,0 +1,28 @@
+=====================================
+ DATA CLEANING & AUTOMATION REPORT
+=====================================
+
+📊 KPI METRICS
+Total Sales: 2297200.86
+Total Orders: 9994
+Average Sales: 229.86
+
+🏆 TOP REGION
+region       sales
+  West 725457.8245
+
+🏆 TOP CATEGORY
+  category      sales
+Technology 836154.033
+
+🏆 TOP SUB-CATEGORY
+sub-category      sales
+      Phones 330007.054
+
+📅 TOP MONTH (SALES)
+  month      sales
+2017-11 118447.825
+
+=====================================
+ END OF REPORT
+=====================================
